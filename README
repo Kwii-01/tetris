@@ -1,5 +1,10 @@
-Its a school project, that consist in recoding the game "Tetris" with a debug
-mod. This debug man allow us to create new forms and change the keys.
+Its a school project in C with the ncurses lib.
+We had to code a Tetris game with a debug mod, this debug mod allow us to create new forms.
+
+To create new forms you have to create a '.tetriminos' file in tetriminos directory.
+
+The two first number are the sizes of the tetriminos
+and the third is the color. The tetrimino is composed by '*' and ' '.
 
 Type --help for help
 
